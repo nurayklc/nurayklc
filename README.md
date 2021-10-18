@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <!--
 **nurayklc/nurayklc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,14 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nuray</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
 
-<div align="center"><img src="https://media.giphy.com/media/d30oLgYQg8xMNlGE/giphy.gif" width="280" height="230"  /> </div>
+<div align="center"><img src="https://media.giphy.com/media/d30oLgYQg8xMNlGE/giphy.gif" width="400" height="250"  /> </div>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=nurayklc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-" alt="nurayklc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurayklc&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="nurayklc" /></a> </p>
+
 
 - 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
 
-- 📝 My personal page [https://www.linkedin.com/in/nuray-kilic/](LinkedIn)
+- 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuray-kilic/)
 
 - 💬 Ask me about **Javascript, HTML, CSS.**
 
