@@ -25,14 +25,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
 
-- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
-
-- 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
+- 📝 My personal page [https://www.linkedin.com/in/nuray-kilic/](LinkedIn)
 
 - 💬 Ask me about **Javascript, CSS and Linux.**
 
 - 📫 How to reach me **cengizcmataraci@gmail.com**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cengizcmataraci" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
@@ -81,4 +79,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cengizcmataraci&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizcmataraci&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizcmataraci&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>--!>
