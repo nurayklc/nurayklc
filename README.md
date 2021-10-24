@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuray-kilic/)
 
-- 💬 Ask me about **Javascript, HTML, CSS.**
+- 💬 Ask me about **React, Javascript, HTML, CSS.**
 
 <!--
 <h3 align="left">Connect with me:</h3>
