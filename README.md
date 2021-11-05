@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuray</h1>
 <h3 align="center">A Software Developer from Turkey</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurayklc&label=Profile%20views&color=0e75b6&style=flat" alt="nurayklc" /> </p>
 <div align="center"><img src="https://media.giphy.com/media/d30oLgYQg8xMNlGE/giphy.gif" width="400" height="250"  /> </div>
 <br>
 
@@ -12,6 +12,12 @@
 - 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuraykilic)
 
 - 💬 Ask me about **React, Javascript, HTML, CSS.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nuraykilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuraykilic" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nurayklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nurayklc" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
