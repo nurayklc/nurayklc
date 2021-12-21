@@ -7,11 +7,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurayklc&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="nurayklc" /></a> </p>
 
 
-- 🌱 I’m currently learning **C#, Java, React.js, Javascript etc.**
+- 🌱 I’m currently learning **C#, Java, React.js, Node.js, Javascript etc.**
 
 - 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuraykilic)
 
-- 💬 Ask me about **React, Javascript, HTML, CSS.**
+- 💬 Ask me about **C#, Java, Node.js, React.js, Javascript, HTML, CSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
