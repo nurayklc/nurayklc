@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuray</h1>
-<h3 align="center">A Software Developer from Turkey</h3>
+<h3 align="center">A Software Engineer from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurayklc&label=Profile%20views&color=0e75b6&style=flat" alt="nurayklc" /> </p>
 <div align="center"><img src="https://media.giphy.com/media/d30oLgYQg8xMNlGE/giphy.gif" width="400" height="250"  /> </div>
 <br>
