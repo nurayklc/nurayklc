@@ -18,7 +18,9 @@
 <a href="https://linkedin.com/in/nuraykilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuraykilic" height="30" width="40" /></a>
 <a href="mailto:nuraykilic0101@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="nurayklc" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/nurayklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nurayklc" height="30" width="40" /></a>
-<a href="https://medium.com/@nuraykilic" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
+<a href="https://medium.com/@nuraykilic" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" /></a>
+<a href="https://app.patika.dev/nurayklc" target="blank" rel=”noopener”><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG1AL6eXKd-_Q/company-logo_200_200/0/1613159962451?e=1657152000&v=beta&t=vRym76Te0qiq6zX3Em97wQ2kXEbhVaCAMtgUSpucKYc" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Technologies:</h3>
