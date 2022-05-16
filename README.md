@@ -11,7 +11,7 @@
 
 - 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuraykilic)
 
-- 💬 Ask me about **C#, Java, Node.js, React.js, Javascript, HTML, CSS.**
+- 💬 Ask me about **C#, Java, Node.js, Javascript, HTML, CSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
