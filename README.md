@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurayklc&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="nurayklc" /></a> </p>
 
 
-- 🌱 I’m currently learning **.Net / C#, Node.js, Javascript etc.**
+- 🌱 I’m currently learning **N-Layered Project**
 
 - 📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuraykilic)
 
@@ -19,7 +19,7 @@
 <a href="mailto:nuraykilic0101@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="nurayklc" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/nurayklc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nurayklc" height="30" width="40" /></a>
 <a href="https://medium.com/@nuraykilic" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" /></a>
-<a href="https://app.patika.dev/nurayklc" target="blank" rel=”noopener”><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG1AL6eXKd-_Q/company-logo_200_200/0/1613159962451?e=1657152000&v=beta&t=vRym76Te0qiq6zX3Em97wQ2kXEbhVaCAMtgUSpucKYc" height="30" width="40" /></a>
+<a href="https://app.patika.dev/nurayklc" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="30" width="40" /></a>
   
 </p>
 
