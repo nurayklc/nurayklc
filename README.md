@@ -53,4 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurayklc&show_icons=true&theme=radical&locale=en&layout=compact" alt="nuraykilic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurayklc&show_icons=true&theme=dark&locale=en" alt="nuraykilic" width="50%" /></p>
-
