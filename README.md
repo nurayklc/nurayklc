@@ -64,7 +64,7 @@
 <p align="center"> 
 <h3 align="center">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="vs" width="60" height="40"/> </a> 
 <!--<a href="https://www.eclipse.org/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/eclipse-logo.png" alt="eclipse" width="30" height="30"/> </a> 
 <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="asana" width="37" height="27"/> </a> -->
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
