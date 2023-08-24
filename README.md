@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurayklc&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="nurayklc" /></a> </p>
 <div align="center">
 <p >
- 🌱 I’m currently learning **Unit of Work Pattern**
+ 🌱 I’m currently learning **Onion Architecture**
 
  📝 My personal page [LinkedIn](https://www.linkedin.com/in/nuraykilic)
 
